@@ -1,3 +1,10 @@
+ /*******************************************************************************
+ * Sketch for Light Glove - A Color catching and throwing glove 
+ * Built by: Mohan Palanisamy
+ * For: Element14.com 2014 Holiday Lights Road Test
+ * Uses parts of code from Adafruit 
+ *******************************************************************************/
+
 #include <Wire.h>
 #include <Adafruit_TCS34725.h>  //Adafruit_TCS34735.h caused compile error. so removed the underscore.
 #include <SoftwareSerial.h>
